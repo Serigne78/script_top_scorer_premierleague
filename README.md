@@ -25,4 +25,4 @@ Assurez-vous également d'avoir un compte Twilio et de remplir les informations 
 ![Capture d'écran de l'interface web](https://pbs.twimg.com/media/F_VB2AgXQAAUIb8?format=jpg&name=900x900)
 ## Auteur
 
-- [Votre Nom]
+- [Serigne Gueye]
