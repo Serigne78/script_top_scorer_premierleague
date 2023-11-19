@@ -10,7 +10,6 @@ L'objectif de ce projet est de fournir des informations actualisées sur les mei
 
 Avant d'exécuter le script, assurez-vous d'avoir les bibliothèques Python nécessaires installées. Vous pouvez le faire en exécutant :
 
-```bash
 pip install beautifulsoup4 requests pandas twilio
 
 Assurez-vous également d'avoir un compte Twilio et de remplir les informations d'authentification (`account_sid`, `auth_token`, `twilio_phone_number`, `your_phone_number`) dans le script.
